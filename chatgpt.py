@@ -1,7 +1,7 @@
 import re
 
 # Open the input file
-with open(r"C:\Users\Family\Desktop\paragrafizace\genesis.txt", "r", encoding='utf-8') as f:
+with open(r"PATH", "r", encoding='utf-8') as f:
     text = f.read()
 
 # Define the string to be added
